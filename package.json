@@ -1,5 +1,5 @@
 {
-  "name": "BetaBOT",
+  "name": "simaofficial",
   "version": "1.0.0",
   "description": "bot wa yang mudah untuk digunakan",
   "main": "index.js",
@@ -34,15 +34,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benisadewa/kntnbotwa"
+    "url": "git+https://github.com/simaofficial/simaofficial"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "Agnes Nur Izzatul",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/benisadewa/kntnbotwa/issues"
+    "url": "https://github.com/simaofficial/simaofficial"
   },
-  "homepage": "https://github.com/benisadewa/kntnbotwa#readme"
+  "homepage": "https://github.com/simaofficial/simaofficial#readme"
 }
