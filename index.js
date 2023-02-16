@@ -13,11 +13,11 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'REUZ BOT☄'; 
-const instagram = 'https://instagram.com/reuz.id'; 
+const BotName = 'sima official'; 
+const instagram = 'simaofficial.store'; 
 const telegram = 'https://t.me/reuzzz'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = 'https://www.youtube.com/c/reuz_id';
+const youtube = 'belum ada';
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const
@@ -137,11 +137,11 @@ conn.sendMessage(id, tambahan.hai ,MessageType.text);
 }
 else if (text == 'Assalamualaikum')
 {
-conn.sendMessage(id, tambahan.ass ,MessageType.text);
+conn.sendMessage(id, tambahan.Waalaikum salam ,MessageType.text);
 }
-else if (text == 'Bro')
+else if (text == 'mba agnes)
 {
-conn.sendMessage(id, tambahan.bro ,MessageType.text);
+conn.sendMessage(id, tambahain.iya ,MessageType.text);
 }
 else if (text == 'P')
 {
@@ -157,11 +157,11 @@ conn.sendMessage(id, tambahan.hai ,MessageType.text);
 }
 else if (text == 'ASSALAMUALAIKUM')
 {
-conn.sendMessage(id, tambahan.ass ,MessageType.text);
+conn.sendMessage(id, tambahan.waalaikum salam ,MessageType.text);
 }
-else if (text == 'BRO')
+else if (text == 'mba agnes)
 {
-conn.sendMessage(id, tambahan.bro ,MessageType.text);
+conn.sendMessage(id, tambahan. iya? ,MessageType.text);
 }
 else if (text == 'TEST')
 {
